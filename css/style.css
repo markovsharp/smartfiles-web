@@ -275,6 +275,22 @@ nav {
     line-height: 1.7;
 }
 
+.about-list {
+    max-width: 500px;
+    margin: 24px auto;
+    text-align: left;
+}
+
+.about-list p {
+    color: #c9d1d9;
+    font-size: 1rem;
+    padding: 6px 0;
+}
+
+.about-list p strong {
+    color: #58a6ff;
+}
+
 /* Footer */
 footer {
     border-top: 1px solid #30363d;
