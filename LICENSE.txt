@@ -1,0 +1,5 @@
+Copyright © 2026 MarkovSharp.
+All Rights Reserved.
+
+No part of this website may be copied, reproduced, modified,
+distributed, or used without prior written permission.
