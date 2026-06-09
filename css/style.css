@@ -291,6 +291,40 @@ nav {
     color: #58a6ff;
 }
 
+.contact-email {
+    margin-top: 8px;
+}
+
+.contact-email a {
+    color: #8b949e;
+    font-size: 0.95rem;
+}
+
+/* UI Preview */
+.ui-preview {
+    padding: 80px 0;
+    background: #161b22;
+    text-align: center;
+}
+
+.ui-preview h2 {
+    font-size: 2rem;
+    color: #f0f6fc;
+    margin-bottom: 12px;
+}
+
+.ui-preview .subtitle {
+    color: #8b949e;
+    margin-bottom: 40px;
+}
+
+.screenshot {
+    max-width: 100%;
+    border-radius: 12px;
+    border: 1px solid #30363d;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+}
+
 /* Footer */
 footer {
     border-top: 1px solid #30363d;
@@ -304,4 +338,13 @@ footer {
     align-items: center;
     font-size: 0.85rem;
     color: #8b949e;
+}
+
+.footer-links {
+    display: flex;
+    gap: 20px;
+}
+
+.footer-links a {
+    color: #58a6ff;
 }
